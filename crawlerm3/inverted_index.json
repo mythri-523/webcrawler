@@ -1,0 +1,294 @@
+{
+    "python": [
+        [
+            "1.html",
+            2
+        ],
+        [
+            "2.html",
+            4
+        ]
+    ],
+    "crawler": [
+        [
+            "1.html",
+            1
+        ],
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "is": [
+        [
+            "1.html",
+            1
+        ],
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "powerful": [
+        [
+            "1.html",
+            1
+        ]
+    ],
+    "and": [
+        [
+            "1.html",
+            1
+        ],
+        [
+            "2.html",
+            3
+        ]
+    ],
+    "useful": [
+        [
+            "1.html",
+            1
+        ]
+    ],
+    "for": [
+        [
+            "1.html",
+            1
+        ],
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "search": [
+        [
+            "1.html",
+            1
+        ],
+        [
+            "2.html",
+            4
+        ]
+    ],
+    "engines": [
+        [
+            "1.html",
+            1
+        ],
+        [
+            "2.html",
+            2
+        ]
+    ],
+    "system": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "based": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "engine": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "widely": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "used": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "building": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "web": [
+        [
+            "2.html",
+            2
+        ]
+    ],
+    "crawlers": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "a": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "collects": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "pages": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "from": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "the": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "internet": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "an": [
+        [
+            "2.html",
+            2
+        ]
+    ],
+    "indexer": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "processes": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "documents": [
+        [
+            "2.html",
+            2
+        ]
+    ],
+    "builds": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "inverted": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "index": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "use": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "term": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "frequency": [
+        [
+            "2.html",
+            2
+        ]
+    ],
+    "inverse": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "document": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "to": [
+        [
+            "2.html",
+            2
+        ]
+    ],
+    "rank": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "efficiently": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "makes": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "it": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "easy": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "implement": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "indexing": [
+        [
+            "2.html",
+            1
+        ]
+    ],
+    "systems": [
+        [
+            "2.html",
+            1
+        ]
+    ]
+}

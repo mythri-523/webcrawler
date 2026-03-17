@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Scour Search Engine</title>
+<style>
+body{
+font-family: Arial;
+text-align:center;
+margin-top:60px;
+background:#f2f2f2;
+}
+#results{
+margin-top:30px;
+width:500px;
+margin-left:auto;
+margin-right:auto;
+background:white;
+padding:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Web Scour</h1>
+
+<input type="text" id="query" placeholder="Enter search">
+
+<button onclick="search()">Search</button>
+
+<div id="results"></div>
+
+<script>
+
+async function search(){
+
+let query=document.getElementById("query").value
+
+let response=await fetch(`http://127.0.0.1:8000/search?q=${youtube}`)
+
+let data=await response.json()
+
+let html=""
+
+data.results.forEach(function(item){
+
+html += item.title + " | Score: " + item.score + "<br>"
+
+})
+
+document.getElementById("results").innerHTML=html
+
+}
+
+</script>
+
+</body>
+
+</html>

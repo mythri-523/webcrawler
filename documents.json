@@ -1,0 +1,18 @@
+{
+  "1": {
+    "title": "Python Basics",
+    "content": "Python programming language tutorial"
+  },
+  "2": {
+    "title": "Machine Learning",
+    "content": "Machine learning uses data and algorithms"
+  },
+  "3": {
+    "title": "YouTube Tutorials",
+    "content": "YouTube programming tutorials and lessons"
+  },
+  "4": {
+    "title": "FastAPI Guide",
+    "content": "FastAPI is a Python web framework"
+  }
+}
